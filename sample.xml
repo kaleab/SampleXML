@@ -1,0 +1,4576 @@
+<?xml version="1.0"?>
+<Document>
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Abu Dhabi, UAE - Admin Branch</BranchName>
+        <Region>EMEA</Region>
+        <Country>United Arab Emirates</Country>
+        <CountryCode>AE</CountryCode>
+        <State>Abu Dhabi</State>
+        <StateName>United Arab Emirates</StateName>
+        <City>Abu Dhabi</City>
+        <StreetAddress>Unit 102, Building C-54, Delma Street, Al Moror Road</StreetAddress>
+        <Suite></Suite>
+        <Zip></Zip>
+        <ContactPhone>+971 2 643 9933</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>24.4678960</Longitude>
+        <Latitude>54.3849970</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Adelaide, SA, Australia - Admin Branch</BranchName>
+        <Region>APAC</Region>
+        <Country>Australia</Country>
+        <CountryCode>AU</CountryCode>
+        <State>SA</State>
+        <StateName>Australia</StateName>
+        <City>Royal Park</City>
+        <StreetAddress>5 Frederick Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>5014</Zip>
+        <ContactPhone>+61 8 8304 7510</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>138.5881440</Longitude>
+        <Latitude>-34.8492380</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Antwerp, Belgium - Valve &amp; Engineering Center </BranchName>
+        <Region>EMEA</Region>
+        <Country>Belgium</Country>
+        <CountryCode>BE</CountryCode>
+        <State>Belgium</State>
+        <StateName>Belgium</StateName>
+        <City>Antwerp</City>
+        <StreetAddress>Vaartkaai 50</StreetAddress>
+        <Suite></Suite>
+        <Zip>2170</Zip>
+        <ContactPhone>+32 (0) 2 482 01 50</ContactPhone>
+        <ContactFax>+32 (0) 2 482 01 50</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>4.4245370</Longitude>
+        <Latitude>51.2364101</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Antwerp, Belgium - Service Branch</BranchName>
+        <Region>EMEA</Region>
+        <Country>Belgium</Country>
+        <CountryCode>BE</CountryCode>
+        <State>Belgium</State>
+        <StateName>Belgium</StateName>
+        <City>Antwerp</City>
+        <StreetAddress>Vaartkaai 50</StreetAddress>
+        <Suite></Suite>
+        <Zip>2170</Zip>
+        <ContactPhone>+32 (0) 2 482 01 50</ContactPhone>
+        <ContactFax>0032 (0)3 232 84 34</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>4.4245370</Longitude>
+        <Latitude>51.2364101</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Atyrau, Kazakhstan - Admin Branch </BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>Kazakhstan</Country>
+        <CountryCode>KA</CountryCode>
+        <State>Kazakhstan</State>
+        <StateName>Kazakhstan</StateName>
+        <City>Atyrau</City>
+        <StreetAddress>Satpayev Street, 56B (3rd Floor)</StreetAddress>
+        <Suite></Suite>
+        <Zip>60005</Zip>
+        <ContactPhone>+7 7122 30 58 41</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>51.9230937</Longitude>
+        <Latitude>47.0964041</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Dubai, UAE</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>United Arab Emirates</Country>
+        <CountryCode>AE</CountryCode>
+        <State>Dubai</State>
+        <StateName>Dubai</StateName>
+        <City>Dubai</City>
+        <StreetAddress>Plot S60202, Jebel Ali Free Zone P.O. Box 261293</StreetAddress>
+        <Suite></Suite>
+        <Zip></Zip>
+        <ContactPhone>+971 4 887 7171</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch  </BranchType>
+        <Longitude>55.107727</Longitude>
+        <Latitude>24.956068</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Dubai, UAE - Regional Distribution Center</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>United Arab Emirates</Country>
+        <CountryCode>AE</CountryCode>
+        <State>Dubai</State>
+        <StateName>Dubai</StateName>
+        <City>Dubai</City>
+        <StreetAddress>Plot S60202, Jebel Ali Free Zone P.O. Box 261293</StreetAddress>
+        <Suite></Suite>
+        <Zip></Zip>
+        <ContactPhone>+971 4 887 7171</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>RDC</BranchType>
+        <Longitude>55.107727</Longitude>
+        <Latitude>24.956068</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Auckland, NZ </BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>Auckland</City>
+        <StreetAddress>Unit 4A &amp; 4B George Bourke Drive</StreetAddress>
+        <Suite>Mt Wellington</Suite>
+        <Zip>1060</Zip>
+        <ContactPhone>+64 (0) 9 276 4149</ContactPhone>
+        <ContactFax>(64-9) 276 4145</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>174.8418365</Longitude>
+        <Latitude>-36.9258779</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Auckland, NZ - Valve &amp; Engineering Center </BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>Auckland</City>
+        <StreetAddress>Unit 4A &amp; 4B George Bourke Drive</StreetAddress>
+        <Suite>Mt Wellington</Suite>
+        <Zip>1060</Zip>
+        <ContactPhone>+64 (0) 9 276 4149</ContactPhone>
+        <ContactFax>(64-9) 276 4145</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>174.8418365</Longitude>
+        <Latitude>-36.9258779</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Bangkok, Thailand </BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>Thailand</Country>
+        <CountryCode>TH</CountryCode>
+        <State>Thailand</State>
+        <StateName>Thailand</StateName>
+        <City>Bangkok</City>
+        <StreetAddress>349 SJ Infinite One Business Complex Building 12th Floor, Unit 1201, Vibhavadi Rangsit Road, Chomphol, Chatuchak</StreetAddress>
+        <Suite></Suite>
+        <Zip>10900</Zip>
+        <ContactPhone>+66 (0) 20166555</ContactPhone>
+        <ContactFax>00662-6170451</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>100.5413660</Longitude>
+        <Latitude>13.7826550</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Basra, Iraq </BranchName>
+        <Region>EMEA</Region>
+        <Country>Iraq</Country>
+        <CountryCode>IQ</CountryCode>
+        <State></State>
+        <StateName>Iraq</StateName>
+        <City>Basra</City>
+        <StreetAddress>Basra International Hotel, Corniche Shatt Al Arab, Al Ashar, PO Box 86538</StreetAddress>
+        <Suite></Suite>
+        <Zip>86538</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>47.8439200</Longitude>
+        <Latitude>30.5178770</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Bergen, Norway - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Bergen</City>
+        <StreetAddress>Hamnevegen 57, 5200 OS</StreetAddress>
+        <Suite></Suite>
+        <Zip>5200</Zip>
+        <ContactPhone>+47 51 95 94 00</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>5.4720241</Longitude>
+        <Latitude>60.1828025</Latitude>
+    </locations>
+    
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Rotterdam, NL - Valve &amp; Engineering Center</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Netherlands</Country>
+        <CountryCode>NL</CountryCode>
+        <State>Netherlands</State>
+        <StateName>Netherlands</StateName>
+        <City>Bleiswijk</City>
+        <StreetAddress>Spectrumlaan 7-9</StreetAddress>
+        <Suite></Suite>
+        <Zip>2665 NM</Zip>
+        <ContactPhone>+31 (0) 88 1414 222</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>4.5408837</Longitude>
+        <Latitude>52.0447762</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Rotterdam, NL</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Netherlands</Country>
+        <CountryCode>NL</CountryCode>
+        <State>Netherlands</State>
+        <StateName>Netherlands</StateName>
+        <City>Bleiswijk</City>
+        <StreetAddress>Spectrumlaan 7-9</StreetAddress>
+        <Suite></Suite>
+        <Zip>2665 NM</Zip>
+        <ContactPhone>+31 (0) 88 1414 222</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>4.5408837</Longitude>
+        <Latitude>52.0447762</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Rotterdam, NL - Regional Distribution Center</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Netherlands</Country>
+        <CountryCode>NL</CountryCode>
+        <State>Netherlands</State>
+        <StateName>Netherlands</StateName>
+        <City>Bleiswijk</City>
+        <StreetAddress>Spectrumlaan 7-9</StreetAddress>
+        <Suite></Suite>
+        <Zip>2665 NM</Zip>
+        <ContactPhone>+31 (0) 88 1414 222</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>4.5408837</Longitude>
+        <Latitude>52.0447762</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Bradford, England - Regional Distribution Center</BranchName>
+        <Region>EMEA</Region>
+        <Country>United Kingdom</Country>
+        <CountryCode>GB</CountryCode>
+        <State>England</State>
+        <StateName>United Kingdom</StateName>
+        <City>Bradford</City>
+        <StreetAddress>Riverside Drive, Hunsworth Lane</StreetAddress>
+        <Suite></Suite>
+        <Zip>BD19 4DH</Zip>
+        <ContactPhone>+44 (0) 127 470 0000</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-1.7163389</Longitude>
+        <Latitude>53.7323258</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Bradford, England -  Valve &amp; Engineering Center</BranchName>
+        <Region>EUROPE</Region>
+        <Country>United Kingdom</Country>
+        <CountryCode>GB</CountryCode>
+        <State>England</State>
+        <StateName>United Kingdom</StateName>
+        <City>Bradford</City>
+        <StreetAddress>Riverside Drive, Hunsworth Lane</StreetAddress>
+        <Suite></Suite>
+        <Zip>BD19 4DH</Zip>
+        <ContactPhone>+44 (0) 127 470 0000</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-1.7163389</Longitude>
+        <Latitude>53.7323258</Latitude>
+    </locations>
+    
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Brisbane, QLD, Australia </BranchName>
+        <Region>APAC</Region>
+        <Country>Australia</Country>
+        <CountryCode>AU</CountryCode>
+        <State>QLD</State>
+        <StateName>Australia</StateName>
+        <City>Lytton</City>
+        <StreetAddress>Unit 4, Export Motorway Estates, 96 Export Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>4178</Zip>
+        <ContactPhone>+61 7 3860 3300</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>153.1534450</Longitude>
+        <Latitude>-27.4299880</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Wollongong, Australia -  Admin Branch </BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>Australia</Country>
+        <CountryCode>AU</CountryCode>
+        <State>NSW</State>
+        <StateName>Australia</StateName>
+        <City>Unanderra</City>
+        <StreetAddress>224 Berkeley Road, Unanderra</StreetAddress>
+        <Suite></Suite>
+        <Zip>2526</Zip>
+        <ContactPhone>+61 2 4261 0270</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>150.8492400</Longitude>
+        <Latitude>-34.4578410</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>633</BranchID>
+        <BranchName>WATFORD CITY, ND </BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>ND</State>
+        <StateName>North Dakota</StateName>
+        <City>WATFORD CITY</City>
+        <StreetAddress>12635 23RD STREET NW</StreetAddress>
+        <Suite></Suite>
+        <Zip>58854</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-103.293252</Longitude>
+        <Latitude>47.74696</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Brussels, Belgium</BranchName>
+        <Region>EMEA</Region>
+        <Country>Belgium</Country>
+        <CountryCode>BE</CountryCode>
+        <State>Belgium</State>
+        <StateName>Belgium</StateName>
+        <City>Brussels</City>
+        <StreetAddress>Basilieklaan/ Av de la Basilique 106</StreetAddress>
+        <Suite></Suite>
+        <Zip>1082</Zip>
+        <ContactPhone>+32 (0)2 482 0150</ContactPhone>
+        <ContactFax>0032 (0)2 465 6126</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>4.3057860</Longitude>
+        <Latitude>50.8652842</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Cergy Pontoise Cedex, France </BranchName>
+        <Region>EMEA</Region>
+        <Country>France</Country>
+        <CountryCode>FR</CountryCode>
+        <State>France</State>
+        <StateName>France</StateName>
+        <City>Cergy Pontoise Cedex</City>
+        <StreetAddress>Immeuble Le Confluence, 23 Boulevard de l&apos;Oise, C.S 20515</StreetAddress>
+        <Suite></Suite>
+        <Zip>95031</Zip>
+        <ContactPhone>33 (0) 130 736 100</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>2.0686480</Longitude>
+        <Latitude>49.0454070</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Christchurch, NZ- Valve &amp; Engineering Center</BranchName>
+        <Region>APAC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>Christchurch</City>
+        <StreetAddress>40 Byron Street</StreetAddress>
+        <Suite>Sydenham</Suite>
+        <Zip>8023</Zip>
+        <ContactPhone>(64) 3 379 5461</ContactPhone>
+        <ContactFax>(64-3) 365 4913</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>172.6410256</Longitude>
+        <Latitude>-43.5429371</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Christchurch, NZ</BranchName>
+        <Region>APAC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>Christchurch</City>
+        <StreetAddress>40 Byron Street</StreetAddress>
+        <Suite>Sydenham</Suite>
+        <Zip>8023</Zip>
+        <ContactPhone>(64) 3 379 5461</ContactPhone>
+        <ContactFax>(64-3) 365 4913</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>172.6410256</Longitude>
+        <Latitude>-43.5429371</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Corbas, France</BranchName>
+        <Region>EUROPE</Region>
+        <Country>France</Country>
+        <CountryCode>FR</CountryCode>
+        <State>France</State>
+        <StateName>France</StateName>
+        <City>Corbas</City>
+        <StreetAddress>20/22 Avenue du 24 Aout 1944</StreetAddress>
+        <Suite></Suite>
+        <Zip>69960</Zip>
+        <ContactPhone>33 (0) 472 500 052</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>4.9102017</Longitude>
+        <Latitude>45.6823525</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Doha, Qatar - Admin Branch</BranchName>
+        <Region>EMEA</Region>
+        <Country>Qatar</Country>
+        <CountryCode>QA</CountryCode>
+        <State>Qatar</State>
+        <StateName>Qatar</StateName>
+        <City>Doha</City>
+        <StreetAddress>Office 1444 - 14th Floor, Al Fardan Office Tower</StreetAddress>
+        <Suite>PO Box 31316, West Bay</Suite>
+        <Zip>31316</Zip>
+        <ContactPhone>+974 44101 514</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>51.5290538</Longitude>
+        <Latitude>25.3204908</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Dortmund, Germany - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Germany</Country>
+        <CountryCode>DU</CountryCode>
+        <State>Germany</State>
+        <StateName>Germany</StateName>
+        <City>Dortmund</City>
+        <StreetAddress>Niederlassung Deutschland Martenerstrasse 537</StreetAddress>
+        <Suite></Suite>
+        <Zip>44379</Zip>
+        <ContactPhone>+49 (0)231 700 129 0</ContactPhone>
+        <ContactFax>0049 (0) 2 31 - 92 71 44 - 44</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>7.3581200</Longitude>
+        <Latitude>51.5035700</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Marl, Germany - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Germany</Country>
+        <CountryCode>DU</CountryCode>
+        <State>Germany</State>
+        <StateName>Germany</StateName>
+        <City>Marl</City>
+        <StreetAddress>Paul-Baumann Str. 1 (Tor 3), Bau 1076 / Raum 3-109</StreetAddress>
+        <Suite></Suite>
+        <Zip>45772</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>7.100341</Longitude>
+        <Latitude>51.681700</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Filderstadt, Germany - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Germany</Country>
+        <CountryCode>DU</CountryCode>
+        <State>Germany</State>
+        <StateName>Germany</StateName>
+        <City>Filderstadt</City>
+        <StreetAddress>Hornbergstr. 39</StreetAddress>
+        <Suite></Suite>
+        <Zip>70794</Zip>
+        <ContactPhone>+49 (0)231 700 129 0</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>9.223876</Longitude>
+        <Latitude>48.655201</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Dunedin, NZ</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>Dunedin</City>
+        <StreetAddress>16 Wickliffe Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>9016</Zip>
+        <ContactPhone>(64) 3 479 2820</ContactPhone>
+        <ContactFax>(64-3) 479 2819</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>170.5173197</Longitude>
+        <Latitude>-45.8716645</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Elsloo, NL - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Netherlands</Country>
+        <CountryCode>NL</CountryCode>
+        <State>Netherlands</State>
+        <StateName>Netherlands</StateName>
+        <City>Elsloo</City>
+        <StreetAddress>Business Park, Stein 124</StreetAddress>
+        <Suite></Suite>
+        <Zip>6181 MA</Zip>
+        <ContactPhone>+31 (0) 46 4789310</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>5.7827799</Longitude>
+        <Latitude>50.9519577</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Grangemouth, Scotland</BranchName>
+        <Region>EUROPE</Region>
+        <Country>United Kingdom</Country>
+        <CountryCode>GB</CountryCode>
+        <State>Scotland</State>
+        <StateName>United Kingdom</StateName>
+        <City>Grangemouth</City>
+        <StreetAddress>West Mains Industrial Estate</StreetAddress>
+        <Suite></Suite>
+        <Zip>FK3 8YE</Zip>
+        <ContactPhone>+44 (0) 1324 665 777</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-3.7526824</Longitude>
+        <Latitude>56.0121703</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Hamilton, NZ</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>Hamilton</City>
+        <StreetAddress>8 Green Street, Frankton</StreetAddress>
+        <Suite></Suite>
+        <Zip>3204</Zip>
+        <ContactPhone>(64) 7 847 8845</ContactPhone>
+        <ContactFax>(64-7) 847 8846</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>175.2552136</Longitude>
+        <Latitude>-37.8033461</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Hasselroth, Germany - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Germany</Country>
+        <CountryCode>DU</CountryCode>
+        <State>Germany</State>
+        <StateName>Germany</StateName>
+        <City>Hasselroth</City>
+        <StreetAddress>Am Gewerberpark 1</StreetAddress>
+        <Suite></Suite>
+        <Zip>63594</Zip>
+        <ContactPhone>+49 (0)6055 905 92 0</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>8.9200560</Longitude>
+        <Latitude>49.8722570</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Helsinki (Vantaa), Finland </BranchName>
+        <Region>EUROPE</Region>
+        <Country>Finland</Country>
+        <CountryCode>FI</CountryCode>
+        <State>Finland</State>
+        <StateName>Finland</StateName>
+        <City>Helsinki (Vantaa)</City>
+        <StreetAddress>Viinikankaari 7</StreetAddress>
+        <Suite></Suite>
+        <Zip>01530</Zip>
+        <ContactPhone>+358 (0) 10 830 7500</ContactPhone>
+        <ContactFax>00358 10 830 7501</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>24.9144286</Longitude>
+        <Latitude>60.3241514</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Helsinki (Vantaa), Finland - Valve &amp; Engineering Center</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Finland</Country>
+        <CountryCode>FI</CountryCode>
+        <State>Finland</State>
+        <StateName>Finland</StateName>
+        <City>Helsinki (Vantaa)</City>
+        <StreetAddress>Viinikankaari 7</StreetAddress>
+        <Suite></Suite>
+        <Zip>01530</Zip>
+        <ContactPhone>+358 (0) 10 830 7500</ContactPhone>
+        <ContactFax>00358 10 830 7501</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Valve &amp; Engineering Center</BranchType>
+        <Longitude>24.9144286</Longitude>
+        <Latitude>60.3241514</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Hokksund, Norway - Valve &amp; Engineering Center</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Hokksund</City>
+        <StreetAddress>Prestebråtan 21</StreetAddress>
+        <Suite></Suite>
+        <Zip>3300</Zip>
+        <ContactPhone>+47 32 24 13 00</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>9.916880</Longitude>
+        <Latitude>59.761350</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Hammerfest, Norway - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Hammerfest</City>
+        <StreetAddress>Sjøgata 6</StreetAddress>
+        <Suite></Suite>
+        <Zip>9600</Zip>
+        <ContactPhone>+47 906 85 351</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>23.6825520</Longitude>
+        <Latitude>70.6636420</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Invercargill, NZ</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>Invercargill</City>
+        <StreetAddress>17B Teviot Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>9812</Zip>
+        <ContactPhone>(64) 3 214 9336</ContactPhone>
+        <ContactFax>(64-3) 214 9337</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>168.3488569</Longitude>
+        <Latitude>-46.4192489</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Jakarta, Indonesia - Admin Branch</BranchName>
+        <Region>APAC</Region>
+        <Country>Indonesia</Country>
+        <CountryCode>ID</CountryCode>
+        <State>Indonesia</State>
+        <StateName>Indonesia</StateName>
+        <City>Jakarta</City>
+        <StreetAddress>Talavera Office Park, 28th Floor, JI TB Simatupang Kav. 22-26</StreetAddress>
+        <Suite></Suite>
+        <Zip>12550</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>106.8087410</Longitude>
+        <Latitude>-6.2917520</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Perth, Australia - Regional Distribution Center</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>Australia</Country>
+        <CountryCode>AU</CountryCode>
+        <State>WA</State>
+        <StateName>Washington</StateName>
+        <City>Jandakot</City>
+        <StreetAddress>4-6 Marriott Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>6164</Zip>
+        <ContactPhone>+61 8 9417 0500</ContactPhone>
+        <ContactFax>+61 8 9417 0600</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>115.8715700</Longitude>
+        <Latitude>-32.0957740</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Perth, Australia - Valve &amp; Engineering Center</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>Australia</Country>
+        <CountryCode>AU</CountryCode>
+        <State>WA</State>
+        <StateName>Washington</StateName>
+        <City>Jandakot</City>
+        <StreetAddress>4-6 Marriott Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>6164</Zip>
+        <ContactPhone>+61 8 9417 0500</ContactPhone>
+        <ContactFax>+61 8 9417 0600</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Automation and Controls Shop</BranchType>
+        <Longitude>115.8715700</Longitude>
+        <Latitude>-32.0957740</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>New Plymouth, NZ</BranchName>
+        <Region>APAC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>New Plymouth</City>
+        <StreetAddress>22 Oropuriri Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>4312</Zip>
+        <ContactPhone>+64 6 755 8000</ContactPhone>
+        <ContactFax>(64) 6 769 5419</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>174.1285414</Longitude>
+        <Latitude>-39.0429516</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Norroy le Veneur, France </BranchName>
+        <Region>EUROPE</Region>
+        <Country>France</Country>
+        <CountryCode>FR</CountryCode>
+        <State>France</State>
+        <StateName>France</StateName>
+        <City>Norroy-le-Veneur</City>
+        <StreetAddress>Immeuble Le Martin ZAC Ecoparc, 1 Rue Jean-Louis Etienne</StreetAddress>
+        <Suite>Bp 20116</Suite>
+        <Zip>57140</Zip>
+        <ContactPhone>33 (0) 387 303 615</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>6.1052510</Longitude>
+        <Latitude>49.1801890</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Nyborg, Norway</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Nyborg</City>
+        <StreetAddress>Langarinden 16</StreetAddress>
+        <Suite></Suite>
+        <Zip>5132</Zip>
+        <ContactPhone>+47 815 52 894</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>5.3407949</Longitude>
+        <Latitude>60.4662485</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Nyborg, Norway - Valve &amp; Engineering Center</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Nyborg</City>
+        <StreetAddress>Langarinden 16</StreetAddress>
+        <Suite></Suite>
+        <Zip>5132</Zip>
+        <ContactPhone>+47 815 52 894</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>5.3407949</Longitude>
+        <Latitude>60.4662485</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Oissel, France</BranchName>
+        <Region>EMEA</Region>
+        <Country>France</Country>
+        <CountryCode>FR</CountryCode>
+        <State>France</State>
+        <StateName>France</StateName>
+        <City>Oissel</City>
+        <StreetAddress>Boulevard Dambourney, Zi De La Poudrerie</StreetAddress>
+        <Suite>Bp 38</Suite>
+        <Zip>76350</Zip>
+        <ContactPhone>33 (0) 232 912 929</ContactPhone>
+        <ContactFax>0033 (0) 2 32 91 36 20</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>1.1117680</Longitude>
+        <Latitude>49.3570300</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Oissel, France - Valve &amp; Engineering Center</BranchName>
+        <Region>EUROPE</Region>
+        <Country>France</Country>
+        <CountryCode>FR</CountryCode>
+        <State>France</State>
+        <StateName>France</StateName>
+        <City>Oissel</City>
+        <StreetAddress>Boulevard Dambourney, Zi De La Poudrerie</StreetAddress>
+        <Suite>Bp 38</Suite>
+        <Zip>76350</Zip>
+        <ContactPhone>33 (0) 232 912 929</ContactPhone>
+        <ContactFax>0033 (0) 2 32 91 36 20</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Valve &amp; Engineering Center</BranchType>
+        <Longitude>1.1117680</Longitude>
+        <Latitude>49.3570300</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Pembrokeshire (Wales), England</BranchName>
+        <Region>EUROPE</Region>
+        <Country>United Kingdom</Country>
+        <CountryCode>GB</CountryCode>
+        <State>England</State>
+        <StateName>United Kingdom</StateName>
+        <City>Pembrokeshire (Wales)</City>
+        <StreetAddress>2 Ferry Lane, Pembroke Dock</StreetAddress>
+        <Suite></Suite>
+        <Zip>SA71 4RE</Zip>
+        <ContactPhone>+44 (0) 1646 622200</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-4.9497697</Longitude>
+        <Latitude>51.6818987</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Rayong, Thailand</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>Thailand</Country>
+        <CountryCode>TH</CountryCode>
+        <State>Thailand</State>
+        <StateName>Thailand</StateName>
+        <City>Rayong</City>
+        <StreetAddress>8 Soi Keeree 2 (Sukhumvit 7), Sukhumvit Road, Huaypong Muang</StreetAddress>
+        <Suite></Suite>
+        <Zip>21150</Zip>
+        <ContactPhone>+66-3-862-7150</ContactPhone>
+        <ContactFax>00(66)(38) 683028</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>101.197851</Longitude>
+        <Latitude>12.695658</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Melbourne, AU - Admin Branch</BranchName>
+        <Region>APAC</Region>
+        <Country>Australia</Country>
+        <CountryCode>AU</CountryCode>
+        <State>Victoria</State>
+        <StateName>Australia</StateName>
+        <City>Mount Waverly</City>
+        <StreetAddress>Part Suite 1.03, Building B, 18-24 Ricketts Road </StreetAddress>
+        <Suite></Suite>
+        <Zip>3179</Zip>
+        <ContactPhone>03 9765-6111 </ContactPhone>
+        <ContactFax>03 9765-6160</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>145.2173710</Longitude>
+        <Latitude>-37.9056820</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Seaham, England</BranchName>
+        <Region>EUROPE</Region>
+        <Country>United Kingdom</Country>
+        <CountryCode>GB</CountryCode>
+        <State>England</State>
+        <StateName>United Kingdom</StateName>
+        <City>Seaham</City>
+        <StreetAddress>Unit 7-10, Spectrum Business Park</StreetAddress>
+        <Suite>Blair Way, Seaham</Suite>
+        <Zip>SR7 7PP</Zip>
+        <ContactPhone>+44 (0) 191 502 2700</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-1.3261204</Longitude>
+        <Latitude>54.8235406</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Seaham, England - Valve &amp; Engineering Center</BranchName>
+        <Region>EMEA</Region>
+        <Country>United Kingdom</Country>
+        <CountryCode>GB</CountryCode>
+        <State>England</State>
+        <StateName>United Kingdom</StateName>
+        <City>Seaham</City>
+        <StreetAddress>Unit 7-10, Spectrum Business Park</StreetAddress>
+        <Suite>Blair Way, Seaham</Suite>
+        <Zip>SR7 7PP</Zip>
+        <ContactPhone>+44 (0) 191 502 2700</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-1.3261204</Longitude>
+        <Latitude>54.8235406</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Settimo Milanese, Italy - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Italy</Country>
+        <CountryCode>IT</CountryCode>
+        <State>Italy</State>
+        <StateName>Italy</StateName>
+        <City>Settimo Milanese</City>
+        <StreetAddress>Via Gramsci, 59</StreetAddress>
+        <Suite></Suite>
+        <Zip>20019</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>9.0168550</Longitude>
+        <Latitude>45.5926100</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Singapore </BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>Singapore</Country>
+        <CountryCode>SG</CountryCode>
+        <State>Singapore</State>
+        <StateName>Singapore</StateName>
+        <City>Singapore</City>
+        <StreetAddress>16 Sungei Kadut Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>729652</Zip>
+        <ContactPhone>65 6865 1020</ContactPhone>
+        <ContactFax>65 6861 0160</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>103.7554900</Longitude>
+        <Latitude>1.4038430</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Stavanger, Norway - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Stavanger</City>
+        <StreetAddress>Gamle Forusvei 53</StreetAddress>
+        <Suite></Suite>
+        <Zip>4033</Zip>
+        <ContactPhone>+47 51 57 39 00</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>5.7404318</Longitude>
+        <Latitude>58.8870673</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Stavanger, Norway - Admin Branch</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Stavanger</City>
+        <StreetAddress>Kanalarmen 12</StreetAddress>
+        <Suite>PO Box 146</Suite>
+        <Zip>4065</Zip>
+        <ContactPhone>+47 51 95 94 00</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>5.6851923</Longitude>
+        <Latitude>58.8976405</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Stavanger, Norway - RDC</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Stavanger</City>
+        <StreetAddress>Kanalarmen 12</StreetAddress>
+        <Suite>PO Box 146</Suite>
+        <Zip>4065</Zip>
+        <ContactPhone>+47 51 95 94 00</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>5.6851923</Longitude>
+        <Latitude>58.8976405</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Stavanger, Norway - Valve &amp; Engineering Center</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Norway</Country>
+        <CountryCode>NO</CountryCode>
+        <State>Norway</State>
+        <StateName>Norway</StateName>
+        <City>Stavanger</City>
+        <StreetAddress>Kanalarmen 12</StreetAddress>
+        <Suite>PO Box 146</Suite>
+        <Zip>4065</Zip>
+        <ContactPhone>+47 51 95 94 00</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>5.6851923</Longitude>
+        <Latitude>58.8976405</Latitude>
+    </locations>
+    
+    
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Uddevalla, Sweden</BranchName>
+        <Region>EUROPE</Region>
+        <Country>Sweden</Country>
+        <CountryCode>SW</CountryCode>
+        <State>Sweden</State>
+        <StateName>Sweden</StateName>
+        <City>Uddevalla</City>
+        <StreetAddress>Bultvägen 1</StreetAddress>
+        <Suite></Suite>
+        <Zip>45175</Zip>
+        <ContactPhone>+46 70 145 6460</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>11.8511923</Longitude>
+        <Latitude>58.3465219</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Warrington, England </BranchName>
+        <Region>EUROPE</Region>
+        <Country>United Kingdom</Country>
+        <CountryCode>GB</CountryCode>
+        <State>England</State>
+        <StateName>United Kingdom</StateName>
+        <City>Warrington</City>
+        <StreetAddress>Piping House, Hawleys Lane</StreetAddress>
+        <Suite></Suite>
+        <Zip>WA2 8JP</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-2.5985921</Longitude>
+        <Latitude>53.4085123</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Wellington, NZ</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>New Zealand</Country>
+        <CountryCode>NZ</CountryCode>
+        <State>New Zealand</State>
+        <StateName>New Zealand</StateName>
+        <City>Wellington</City>
+        <StreetAddress>Unit 7, 25 Centennial Highway, Ngauranga Gorge</StreetAddress>
+        <Suite></Suite>
+        <Zip>6035</Zip>
+        <ContactPhone>(64) 4 499 9560</ContactPhone>
+        <ContactFax>(64) 4 499 9561</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>174.7734663</Longitude>
+        <Latitude>-41.2518261</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>South Korea</BranchName>
+        <Region>ASIA PACIFIC</Region>
+        <Country>South Korea</Country>
+        <CountryCode>SO</CountryCode>
+        <State>South Korea</State>
+        <StateName>South Korea</StateName>
+        <City>South Gyeongsang</City>
+        <StreetAddress>38 Namyeong-ro 527 beon-gil</StreetAddress>
+        <Suite>Jinhae-gu, Changwon-si</Suite>
+        <Zip>51612</Zip>
+        <ContactPhone>+82 55 716 9844</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>129.1251250</Longitude>
+        <Latitude>35.1763680</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>001</BranchID>
+        <BranchName>Charleston, WV - Corporate Office</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WV</State>
+        <StateName>West Virginia</StateName>
+        <City>Charleston</City>
+        <StreetAddress>835 Hillcrest Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>25311</Zip>
+        <ContactPhone>800-624-8603</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Corporate Office</BranchType>
+        <Longitude>-81.5996585</Longitude>
+        <Latitude>38.3379239</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>7V2</BranchID>
+        <BranchName>Charleston, Tennessee, US - Satellite</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TN</State>
+        <StateName>West Virginia</StateName>
+        <City>Charleston</City>
+        <StreetAddress>8446 Hiwassee Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>37310</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Satellite</BranchType>
+        <Longitude>-84.7639970</Longitude>
+        <Latitude>35.2731440</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>185</BranchID>
+        <BranchName>Buckhannon, WV – Service Branch (TransCanada)</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WV</State>
+        <StateName>West Virginia</StateName>
+        <City>Buckhannon</City>
+        <StreetAddress>71 Mud Lick Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>26201</Zip>
+        <ContactPhone>800-624-8603</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-80.2528610</Longitude>
+        <Latitude>39.0049120</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>002</BranchID>
+        <BranchName>Nitro, WV - Regional Distribution Center</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WV</State>
+        <StateName>West Virginia</StateName>
+        <City>Nitro</City>
+        <StreetAddress>4 McJunkin Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>25143</Zip>
+        <ContactPhone>304-759-3000</ContactPhone>
+        <ContactFax>304-759-3020</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-81.8368200</Longitude>
+        <Latitude>38.4383569</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>067</BranchID>
+        <BranchName>Nitro, WV</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WV</State>
+        <StateName>West Virginia</StateName>
+        <City>Nitro</City>
+        <StreetAddress>4 McJunkin Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>25143</Zip>
+        <ContactPhone>304-562-5724</ContactPhone>
+        <ContactFax>304-755-1790</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-81.8368200</Longitude>
+        <Latitude>38.4383569</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>007</BranchID>
+        <BranchName>Marietta, OH</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Marietta</City>
+        <StreetAddress>235 Mitchells Lane</StreetAddress>
+        <Suite></Suite>
+        <Zip>45750</Zip>
+        <ContactPhone>740-373-4475</ContactPhone>
+        <ContactFax>740-373-0441</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-81.4028790</Longitude>
+        <Latitude>39.3993440</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>009</BranchID>
+        <BranchName>Atlanta, GA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>GA</State>
+        <StateName>Georgia</StateName>
+        <City>Tucker</City>
+        <StreetAddress>4411 Bibb Boulevard</StreetAddress>
+        <Suite></Suite>
+        <Zip>30084</Zip>
+        <ContactPhone>770-493-1754</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-84.4059519</Longitude>
+        <Latitude>33.7734789</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Shanghai, China - Admin Branch</BranchName>
+        <Region>APAC</Region>
+        <Country>China</Country>
+        <CountryCode>CN</CountryCode>
+        <State>China</State>
+        <StateName>China</StateName>
+        <City>Shanghai</City>
+        <StreetAddress>2606 Ascendas Plaza, 333 Tianyaoqiao Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>200030</Zip>
+        <ContactPhone>+86 (21) 22157685</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>121.3735710</Longitude>
+        <Latitude>30.7523130</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>010</BranchID>
+        <BranchName>Louisville, KY</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>KY</State>
+        <StateName>Kentucky</StateName>
+        <City>Louisville</City>
+        <StreetAddress>3405 Kramers Lane</StreetAddress>
+        <Suite></Suite>
+        <Zip>40216</Zip>
+        <ContactPhone>502-449-1660</ContactPhone>
+        <ContactFax>502-449-1408</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-85.8394110</Longitude>
+        <Latitude>38.2034460</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>011</BranchID>
+        <BranchName>Pittsburgh, PA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>PA</State>
+        <StateName>Pennsylvania</StateName>
+        <City>Coraopolis</City>
+        <StreetAddress>1103 Station Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>15108</Zip>
+        <ContactPhone>412-893-1200</ContactPhone>
+        <ContactFax>412-893-1212</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-80.1392877</Longitude>
+        <Latitude>40.5093243</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>173</BranchID>
+        <BranchName>Houston, TX </BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Houston</City>
+        <StreetAddress>4732 Darien Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>77028</Zip>
+        <ContactPhone>713-230-2700</ContactPhone>
+        <ContactFax>713-675-8329</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-95.2952310</Longitude>
+        <Latitude>29.8018430</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>172</BranchID>
+        <BranchName>La Porte, TX - Regional Distribution Center</BranchName>
+        <Region>East</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>La Porte</City>
+        <StreetAddress>1801 South 16th Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>77571</Zip>
+        <ContactPhone>713-230-2700</ContactPhone>
+        <ContactFax>713-675-8329</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-95.0353</Longitude>
+        <Latitude>29.630394</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>174</BranchID>
+        <BranchName>La Porte, TX - US</BranchName>
+        <Region>East</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>La Porte</City>
+        <StreetAddress>1801 South 16th Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>77571</Zip>
+        <ContactPhone>713-230-2700</ContactPhone>
+        <ContactFax>713-675-8329</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-95.0353</Longitude>
+        <Latitude>29.630394</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>013</BranchID>
+        <BranchName>Dallas, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Grand Prairie</City>
+        <StreetAddress>841 Heinz Way</StreetAddress>
+        <Suite></Suite>
+        <Zip>75051</Zip>
+        <ContactPhone>972-602-4070</ContactPhone>
+        <ContactFax>972-606-2615</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-97.0409626</Longitude>
+        <Latitude>32.7341626</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>014</BranchID>
+        <BranchName>Cincinnati, OH</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Fairfield</City>
+        <StreetAddress>9085 Le Saint Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>45014</Zip>
+        <ContactPhone>513-489-9900</ContactPhone>
+        <ContactFax>513-489-4933</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-84.478831</Longitude>
+        <Latitude>39.330514</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>015</BranchID>
+        <BranchName>Appleton, WI- Service Branch</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WI</State>
+        <StateName>Wisconsin</StateName>
+        <City>Appleton</City>
+        <StreetAddress>2130 W Pershing Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>54914</Zip>
+        <ContactPhone>920-830-2689</ContactPhone>
+        <ContactFax>920-830-3038</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-88.4393380</Longitude>
+        <Latitude>44.2845700</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>016</BranchID>
+        <BranchName>Charlotte, NC</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NC</State>
+        <StateName>North Carolina</StateName>
+        <City>Charlotte</City>
+        <StreetAddress>4301 Yancey Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>28217</Zip>
+        <ContactPhone>704-889-7211</ContactPhone>
+        <ContactFax>704-889-2334</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-80.8825255</Longitude>
+        <Latitude>35.1855745</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>017</BranchID>
+        <BranchName>Indiana, PA - Satellite</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>PA</State>
+        <StateName>Pennsylvania</StateName>
+        <City>Indiana</City>
+        <StreetAddress>480 Geesey Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>15701</Zip>
+        <ContactPhone>724-349-6823</ContactPhone>
+        <ContactFax>724-349-5907</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-79.1006854</Longitude>
+        <Latitude>40.6347830</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>018</BranchID>
+        <BranchName>Buckhannon, WV</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WV</State>
+        <StateName>West Virginia</StateName>
+        <City>Buckhannon</City>
+        <StreetAddress>3842 Old Weston Road</StreetAddress>
+        <Suite>PO Box 670</Suite>
+        <Zip>26201</Zip>
+        <ContactPhone>304-472-3565</ContactPhone>
+        <ContactFax>304-472-5803</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-80.3026639</Longitude>
+        <Latitude>39.0142870</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>020</BranchID>
+        <BranchName>Glassboro, NJ</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NJ</State>
+        <StateName>New Jersey</StateName>
+        <City>Glassboro</City>
+        <StreetAddress>70 Sewell Street, Unit J</StreetAddress>
+        <Suite></Suite>
+        <Zip>8028</Zip>
+        <ContactPhone>856-881-0345</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-75.1209405</Longitude>
+        <Latitude>39.6979782</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>021</BranchID>
+        <BranchName>Calvert City, KY</BranchName>
+        <Region>MIDWEST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>KY</State>
+        <StateName>Kentucky</StateName>
+        <City>Calvert City</City>
+        <StreetAddress>4505 Gilbertsville Highway</StreetAddress>
+        <Suite>PO Box 285</Suite>
+        <Zip>42029</Zip>
+        <ContactPhone>270-395-7171</ContactPhone>
+        <ContactFax>270-395-5812</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-88.3359720</Longitude>
+        <Latitude>37.0394378</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>022</BranchID>
+        <BranchName>Pittsburgh, PA - Regional Distribution Center</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>PA</State>
+        <StateName>Pennsylvania</StateName>
+        <City>Monessen</City>
+        <StreetAddress>1000 Maronda Way</StreetAddress>
+        <Suite></Suite>
+        <Zip>15062</Zip>
+        <ContactPhone>724-684-4013</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-79.8972303</Longitude>
+        <Latitude>40.1624918</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>085</BranchID>
+        <BranchName>Pittsburgh, PA -  Valve &amp; Engineering Center</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>PA</State>
+        <StateName>Pennsylvania</StateName>
+        <City>Monessen</City>
+        <StreetAddress>1000 Maronda Way</StreetAddress>
+        <Suite></Suite>
+        <Zip>15062</Zip>
+        <ContactPhone>724-684-4013</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-79.8972303</Longitude>
+        <Latitude>40.1624918</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>023</BranchID>
+        <BranchName>Granite City, IL</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>IL</State>
+        <StateName>Illinois</StateName>
+        <City>Granite City</City>
+        <StreetAddress>3672 Highway 111</StreetAddress>
+        <Suite></Suite>
+        <Zip>62040</Zip>
+        <ContactPhone>618-797-2900</ContactPhone>
+        <ContactFax>314-534-1209</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-90.0692941</Longitude>
+        <Latitude>38.7146169</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>025</BranchID>
+        <BranchName>Beaumont, TX</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Beaumont</City>
+        <StreetAddress>6375 Highway 347</StreetAddress>
+        <Suite></Suite>
+        <Zip>77705</Zip>
+        <ContactPhone>409-727-1411</ContactPhone>
+        <ContactFax>409-727-4103</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-94.0454610</Longitude>
+        <Latitude>30.0200990</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>026</BranchID>
+        <BranchName>Augusta, GA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>GA</State>
+        <StateName>Georgia</StateName>
+        <City>Augusta</City>
+        <StreetAddress>519 Laney Walker Boulevard</StreetAddress>
+        <Suite></Suite>
+        <Zip>30901</Zip>
+        <ContactPhone>706-724-7666</ContactPhone>
+        <ContactFax>706-724-6373</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-81.9446380</Longitude>
+        <Latitude>33.4549510</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>027</BranchID>
+        <BranchName>Philadelphia, PA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>PA</State>
+        <StateName>Pennsylvania</StateName>
+        <City>Eddystone</City>
+        <StreetAddress>1001 Industrial Highway</StreetAddress>
+        <Suite>Building C</Suite>
+        <Zip>19022</Zip>
+        <ContactPhone>610-876-4000</ContactPhone>
+        <ContactFax>610-876-0646</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-75.3336033</Longitude>
+        <Latitude>39.8597910</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>028</BranchID>
+        <BranchName>Decatur, AL</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>AL</State>
+        <StateName>Alabama</StateName>
+        <City>Decatur</City>
+        <StreetAddress>668 McEntire Lane</StreetAddress>
+        <Suite></Suite>
+        <Zip>35601</Zip>
+        <ContactPhone>256-355-7040</ContactPhone>
+        <ContactFax>256-351-0284</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-87.0357530</Longitude>
+        <Latitude>34.6062640</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>030</BranchID>
+        <BranchName>North Charleston, SC</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>SC</State>
+        <StateName>South Carolina</StateName>
+        <City>North Charleston</City>
+        <StreetAddress>5945 Commerce Circle</StreetAddress>
+        <Suite></Suite>
+        <Zip>29406</Zip>
+        <ContactPhone>843-744-4401</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-79.9824000</Longitude>
+        <Latitude>32.9042410</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>032</BranchID>
+        <BranchName>Munster, IN - Regional Distribution Center</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>IN</State>
+        <StateName>Indiana</StateName>
+        <City>Munster</City>
+        <StreetAddress>101 45th Avenue</StreetAddress>
+        <Suite>Unit 1</Suite>
+        <Zip>46321</Zip>
+        <ContactPhone>219-922-5341</ContactPhone>
+        <ContactFax>219-922-5342</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-87.5240230</Longitude>
+        <Latitude>41.5454640</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>033</BranchID>
+        <BranchName>Richmond, VA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>VA</State>
+        <StateName>Virginia</StateName>
+        <City>Richmond</City>
+        <StreetAddress>2500 Bellwood Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>23237</Zip>
+        <ContactPhone>804-271-8018</ContactPhone>
+        <ContactFax>804-271-2201</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-77.4306189</Longitude>
+        <Latitude>37.4117350</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>034</BranchID>
+        <BranchName>Mobile, AL - Sales Office</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>AL</State>
+        <StateName>Alabama</StateName>
+        <City>Mobile</City>
+        <StreetAddress>4099 Halls Mill Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>36693</Zip>
+        <ContactPhone>251-661-1007</ContactPhone>
+        <ContactFax>251-660-6061</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-88.4760960</Longitude>
+        <Latitude>30.4108650</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>035</BranchID>
+        <BranchName>Jacksonville, FL</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>FL</State>
+        <StateName>Florida</StateName>
+        <City>Jacksonville</City>
+        <StreetAddress>5440 Highway Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>32254</Zip>
+        <ContactPhone>904-783-1962</ContactPhone>
+        <ContactFax>904-783-1968</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-81.7405210</Longitude>
+        <Latitude>30.3206920</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>051</BranchID>
+        <BranchName>Lakeland, Florida, US</BranchName>
+        <Region>ATLANTIC</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>FL</State>
+        <StateName>Florida</StateName>
+        <City>LAKELAND</City>
+        <StreetAddress>3000 MAINE AVENUE</StreetAddress>
+        <Suite></Suite>
+        <Zip>33801</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-81.8992540</Longitude>
+        <Latitude>28.0132070</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>037</BranchID>
+        <BranchName>Narrows, VA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>VA</State>
+        <StateName>Virginia</StateName>
+        <City>Narrows</City>
+        <StreetAddress>3520 Virginia Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>24124</Zip>
+        <ContactPhone>540-921-5020</ContactPhone>
+        <ContactFax>540-921-5030</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-80.7652439</Longitude>
+        <Latitude>37.3500697</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>038</BranchID>
+        <BranchName>Wilmington, NC</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NC</State>
+        <StateName>North Carolina</StateName>
+        <City>Wilmington</City>
+        <StreetAddress>3340A US Highway 421 North</StreetAddress>
+        <Suite></Suite>
+        <Zip>28401</Zip>
+        <ContactPhone>910-762-5000</ContactPhone>
+        <ContactFax>910-251-1601</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-77.9685669</Longitude>
+        <Latitude>34.2909500</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>040</BranchID>
+        <BranchName>Cleveland, OH</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Stow</City>
+        <StreetAddress>4704 Hudson Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>44224</Zip>
+        <ContactPhone>330-963-7200</ContactPhone>
+        <ContactFax>330-963-7042</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-81.4611433</Longitude>
+        <Latitude>41.1929738</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>042</BranchID>
+        <BranchName>Wooster, OH</BranchName>
+        <Region>NORTHEAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Wooster</City>
+        <StreetAddress>291 Bransetter Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>44691</Zip>
+        <ContactPhone>330-264-0077</ContactPhone>
+        <ContactFax>330-264-6477</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-81.9600879</Longitude>
+        <Latitude>40.8026246</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>047</BranchID>
+        <BranchName>Lake Charles, LA</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>LA</State>
+        <StateName>Louisiana</StateName>
+        <City>Lake Charles</City>
+        <StreetAddress>804 PPG Drive</StreetAddress>
+        <Suite>Building F</Suite>
+        <Zip>70669</Zip>
+        <ContactPhone>337-882-6165</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-93.2857150</Longitude>
+        <Latitude>30.2368092</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>048</BranchID>
+        <BranchName>Denver, CO</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CO</State>
+        <StateName>Colorado</StateName>
+        <City>Denver</City>
+        <StreetAddress>4295 Kearney Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>80216</Zip>
+        <ContactPhone>720-941-0119</ContactPhone>
+        <ContactFax>720-941-0154</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-104.9182659</Longitude>
+        <Latitude>39.7760468</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>049</BranchID>
+        <BranchName>Billings, MT</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>MT</State>
+        <StateName>Montana</StateName>
+        <City>Billings</City>
+        <StreetAddress>1224 Cordova Lane</StreetAddress>
+        <Suite>Unit 2</Suite>
+        <Zip>59101</Zip>
+        <ContactPhone>406-656-0936</ContactPhone>
+        <ContactFax>406-656-4748</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-108.5510590</Longitude>
+        <Latitude>45.7474270</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>050</BranchID>
+        <BranchName>North Brunswick, NJ</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NJ</State>
+        <StateName>New Jersey</StateName>
+        <City>East Brunswick</City>
+        <StreetAddress>1980 US Hwy 1</StreetAddress>
+        <Suite>Suite 100</Suite>
+        <Zip>08902</Zip>
+        <ContactPhone>732-220-1549</ContactPhone>
+        <ContactFax>732-220-1453</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-74.4944310</Longitude>
+        <Latitude>40.4480930</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>052</BranchID>
+        <BranchName>Columbus, OH</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Columbus</City>
+        <StreetAddress>1003 Distribution Drive</StreetAddress>
+        <Suite>Unit F</Suite>
+        <Zip>43228</Zip>
+        <ContactPhone>614-276-5468</ContactPhone>
+        <ContactFax>614-276-5631</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-83.1066069</Longitude>
+        <Latitude>39.9725291</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>055</BranchID>
+        <BranchName>Corpus Christi, TX </BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Corpus Christi</City>
+        <StreetAddress>1901 N Clarkwood</StreetAddress>
+        <Suite>Bldg 216</Suite>
+        <Zip>78409</Zip>
+        <ContactPhone>361-883-3661</ContactPhone>
+        <ContactFax>361-883-3665</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-97.5391220</Longitude>
+        <Latitude>27.8175790</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>809</BranchID>
+        <BranchName>Freeport, Texas</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Freeport</City>
+        <StreetAddress>902 North Gulf Boulevard</StreetAddress>
+        <Suite></Suite>
+        <Zip>77541</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-95.3681460</Longitude>
+        <Latitude>28.9681600</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>056</BranchID>
+        <BranchName>Harvey, LA</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>LA</State>
+        <StateName>Louisiana</StateName>
+        <City>Harvey</City>
+        <StreetAddress>1100 1st Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>70058</Zip>
+        <ContactPhone>504-340-0604</ContactPhone>
+        <ContactFax>504-347-6312</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-90.0816518</Longitude>
+        <Latitude>29.8950487</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>065</BranchID>
+        <BranchName>Horseheads, NY</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NY</State>
+        <StateName>New York</StateName>
+        <City>Horseheads</City>
+        <StreetAddress>224 North Main Street</StreetAddress>
+        <Suite>Building 13-1</Suite>
+        <Zip>14845</Zip>
+        <ContactPhone>607-739-8575</ContactPhone>
+        <ContactFax>607-739-8527</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-76.8235119</Longitude>
+        <Latitude>42.1702806</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>068</BranchID>
+        <BranchName>Gillette, WY</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WY</State>
+        <StateName>Wyoming</StateName>
+        <City>Gillette</City>
+        <StreetAddress>4600 S. Garner Lake Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>82718</Zip>
+        <ContactPhone>307-682-1502</ContactPhone>
+        <ContactFax>307-682-1481</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-105.5215272</Longitude>
+        <Latitude>44.3205255</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>071</BranchID>
+        <BranchName>Baton Rouge, LA</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>LA</State>
+        <StateName>Louisiana</StateName>
+        <City>Port Allen</City>
+        <StreetAddress>1100 Leblanc Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>70767</Zip>
+        <ContactPhone>225-388-9542</ContactPhone>
+        <ContactFax>225-388-9517</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-91.2112387</Longitude>
+        <Latitude>30.4421991</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>074</BranchID>
+        <BranchName>Dilley, TX</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Dilley</City>
+        <StreetAddress>1064 W Highway 85</StreetAddress>
+        <Suite></Suite>
+        <Zip>78017</Zip>
+        <ContactPhone>830-965-1907</ContactPhone>
+        <ContactFax>830-965-4733</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-99.1726654</Longitude>
+        <Latitude>28.6678511</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>075</BranchID>
+        <BranchName>Farmington, NM</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NM</State>
+        <StateName>New Mexico</StateName>
+        <City>Farmington</City>
+        <StreetAddress>2400 Bloomfield Highway</StreetAddress>
+        <Suite></Suite>
+        <Zip>87401</Zip>
+        <ContactPhone>505-325-2271</ContactPhone>
+        <ContactFax>505-327-2606</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-108.1774780</Longitude>
+        <Latitude>36.7206240</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>078</BranchID>
+        <BranchName>Odessa, TX - Regional Distribution Center</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Odessa</City>
+        <StreetAddress>333 South County Road West</StreetAddress>
+        <Suite></Suite>
+        <Zip>79763</Zip>
+        <ContactPhone>432-332-8241</ContactPhone>
+        <ContactFax>432-332-5121</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-102.3858270</Longitude>
+        <Latitude>31.8323722</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>072</BranchID>
+        <BranchName>Odessa, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Odessa</City>
+        <StreetAddress>333 South County Road West</StreetAddress>
+        <Suite></Suite>
+        <Zip>79763</Zip>
+        <ContactPhone>432-332-8241</ContactPhone>
+        <ContactFax>432-332-5121</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-102.3858270</Longitude>
+        <Latitude>31.8323722</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>081</BranchID>
+        <BranchName>Asherton, TX</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Asherton</City>
+        <StreetAddress>7166 Highway 83 South</StreetAddress>
+        <Suite></Suite>
+        <Zip>78827</Zip>
+        <ContactPhone>8308769300</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-99.7142630</Longitude>
+        <Latitude>28.4191051</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>082</BranchID>
+        <BranchName>Port Allen, LA - Valve &amp; Engineering Center</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>LA</State>
+        <StateName>Louisiana</StateName>
+        <City>Port Allen</City>
+        <StreetAddress>1050 Commercial Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>70767</Zip>
+        <ContactPhone>225-388-9542</ContactPhone>
+        <ContactFax>225-388-9517</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-91.2118836</Longitude>
+        <Latitude>30.4450485</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>086</BranchID>
+        <BranchName>Cheyenne, WY - Valve &amp; Engineering Center</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WY</State>
+        <StateName>Wyoming</StateName>
+        <City>Cheyenne</City>
+        <StreetAddress>2852 Christensen Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>82007</Zip>
+        <ContactPhone>307-996-4100</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-104.7117445</Longitude>
+        <Latitude>41.1411175</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>087</BranchID>
+        <BranchName>Augusta, GA - Valve &amp; Engineering Center</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>GA</State>
+        <StateName>Georgia</StateName>
+        <City>Augusta</City>
+        <StreetAddress>519 Laney Walker Boulevard</StreetAddress>
+        <Suite></Suite>
+        <Zip>30901</Zip>
+        <ContactPhone>706-724-7666</ContactPhone>
+        <ContactFax>706-724-6373</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-81.9446380</Longitude>
+        <Latitude>33.4549510</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>088</BranchID>
+        <BranchName>Benicia, CA - Valve &amp; Engineering Center</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Benicia</City>
+        <StreetAddress>3110 Bayshore Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>94510</Zip>
+        <ContactPhone>707-746-6960</ContactPhone>
+        <ContactFax>707-746-6979</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-122.1277210</Longitude>
+        <Latitude>38.0625280</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>123</BranchID>
+        <BranchName>Long Beach, CA - California Resources</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Long Beach</City>
+        <StreetAddress>1280 Pier G Avenue - Pier G Long Beach</StreetAddress>
+        <Suite></Suite>
+        <Zip>90802</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-118.2059570</Longitude>
+        <Latitude>33.7634430</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>120</BranchID>
+        <BranchName>Kern River, CA - Chevron</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Bakersfield</City>
+        <StreetAddress>1978 China Grade Loop Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>93308</Zip>
+        <ContactPhone>707-746-6960</ContactPhone>
+        <ContactFax>707-746-6979</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-118.967721</Longitude>
+        <Latitude>35.420724</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>089</BranchID>
+        <BranchName>Carson, CA - Valve &amp; Engineering Center</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Carson</City>
+        <StreetAddress>1555 East Del Amo Boulevard</StreetAddress>
+        <Suite></Suite>
+        <Zip>90746</Zip>
+        <ContactPhone>310-605-5392</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-118.2442750</Longitude>
+        <Latitude>33.8472970</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>090</BranchID>
+        <BranchName>Nitro, WV - Valve &amp; Engineering Center</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WV</State>
+        <StateName>West Virginia</StateName>
+        <City>Nitro</City>
+        <StreetAddress>4 McJunkin Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>25143</Zip>
+        <ContactPhone>304-759-3000</ContactPhone>
+        <ContactFax>304-759-3020</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Automation &amp; Controls Shop</BranchType>
+        <Longitude>-81.8368200</Longitude>
+        <Latitude>38.4383569</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>091</BranchID>
+        <BranchName>Munster, IN - Valve &amp; Engineering Center</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>IN</State>
+        <StateName>Indiana</StateName>
+        <City>Munster</City>
+        <StreetAddress>101 45th Avenue</StreetAddress>
+        <Suite>Unit 1</Suite>
+        <Zip>46321</Zip>
+        <ContactPhone>708-225-3120</ContactPhone>
+        <ContactFax>219-922-5342</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Valve &amp; Engineering Center</BranchType>
+        <Longitude>-87.5240230</Longitude>
+        <Latitude>41.5454640</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>092</BranchID>
+        <BranchName>Cincinnati, OH -  Valve &amp; Engineering Center</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Cincinnati</City>
+        <StreetAddress>7275 Edington Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>45249-1064</Zip>
+        <ContactPhone>513-489-6922</ContactPhone>
+        <ContactFax>513-489-0037</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-84.3556119</Longitude>
+        <Latitude>39.2892700</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>093</BranchID>
+        <BranchName>La Porte, TX - Valve &amp; Engineering Center</BranchName>
+        <Region>East</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>La Porte</City>
+        <StreetAddress>1801 South 16th Street </StreetAddress>
+        <Suite></Suite>
+        <Zip>77571</Zip>
+        <ContactPhone>713-577-3000</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-95.0353</Longitude>
+        <Latitude>29.630394</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>865</BranchID>
+        <BranchName>Galena Park, TX - Regional Distribution Center </BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Galena Park</City>
+        <StreetAddress>2333 Clinton Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>77547</Zip>
+        <ContactPhone>713-577-3000</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-95.2498820</Longitude>
+        <Latitude>29.7338230</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>094</BranchID>
+        <BranchName>Odessa, TX - Valve &amp; Engineering Center</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Odessa</City>
+        <StreetAddress>2501 East IH 20</StreetAddress>
+        <Suite></Suite>
+        <Zip>79766</Zip>
+        <ContactPhone>432-333-6304</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-102.3224660</Longitude>
+        <Latitude>31.8508180</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>095</BranchID>
+        <BranchName>Bakersfield, CA - Valve &amp; Engineering Center</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Bakersfield</City>
+        <StreetAddress>4000 Fenucchi Way</StreetAddress>
+        <Suite></Suite>
+        <Zip>93263</Zip>
+        <ContactPhone>661-393-3033</ContactPhone>
+        <ContactFax>661-393-1862</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-119.0635590</Longitude>
+        <Latitude>35.4329960</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>096</BranchID>
+        <BranchName>Ponca City, OK - Phillips 66</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OK</State>
+        <StateName>Oklahoma</StateName>
+        <City>Ponca City</City>
+        <StreetAddress>3400 S 7th Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>74601</Zip>
+        <ContactPhone>580-767-4115</ContactPhone>
+        <ContactFax>580-767-3140</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-97.0762860</Longitude>
+        <Latitude>36.6756334</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>097</BranchID>
+        <BranchName>Texas City, TX</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>La Marque</City>
+        <StreetAddress>4705 Highway 1765</StreetAddress>
+        <Suite></Suite>
+        <Zip>77568</Zip>
+        <ContactPhone>409-938-1814</ContactPhone>
+        <ContactFax>409-938-4312</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-95.0066073</Longitude>
+        <Latitude>29.3759712</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>099</BranchID>
+        <BranchName>Indianapolis, IN</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>IN</State>
+        <StateName>Indiana</StateName>
+        <City>Indianapolis</City>
+        <StreetAddress>8399 Zionsville Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>46268</Zip>
+        <ContactPhone>317-876-5050</ContactPhone>
+        <ContactFax>317-876-5005</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-86.2586070</Longitude>
+        <Latitude>39.9060340</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>102</BranchID>
+        <BranchName>San Antonio, TX - Regional Distribution Center</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>San Antonio</City>
+        <StreetAddress>5885 FM 1346</StreetAddress>
+        <Suite></Suite>
+        <Zip>78220</Zip>
+        <ContactPhone>210-666-6060</ContactPhone>
+        <ContactFax>210-666-6533</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-98.3756480</Longitude>
+        <Latitude>29.4233190</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>107</BranchID>
+        <BranchName>N. Salt Lake City, UT</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>UT</State>
+        <StateName>Utah</StateName>
+        <City>N. Salt Lake City</City>
+        <StreetAddress>485 N 400 West</StreetAddress>
+        <Suite></Suite>
+        <Zip>84054</Zip>
+        <ContactPhone>801-298-4605</ContactPhone>
+        <ContactFax>801-295-9191</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-111.9214861</Longitude>
+        <Latitude>40.8514306</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>110</BranchID>
+        <BranchName>Rock Springs, WY</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WY</State>
+        <StateName>Wyoming</StateName>
+        <City>Rock Springs</City>
+        <StreetAddress>2851 Yellowstone Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>82901</Zip>
+        <ContactPhone>307-382-8100</ContactPhone>
+        <ContactFax>307-382-8101</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-109.2648034</Longitude>
+        <Latitude>41.6617710</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>112</BranchID>
+        <BranchName>Bakersfield, CA - Regional Distribution Center</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Bakersfield</City>
+        <StreetAddress>4000 Fenucchi Way</StreetAddress>
+        <Suite></Suite>
+        <Zip>93263</Zip>
+        <ContactPhone>661-393-3033</ContactPhone>
+        <ContactFax>661-393-1862</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-119.0635590</Longitude>
+        <Latitude>35.4329960</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>114</BranchID>
+        <BranchName>San Ardo, CA - Aera</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>San Ardo</City>
+        <StreetAddress>66893 Sargent Canyon Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>93450</Zip>
+        <ContactPhone>661-768-4908</ContactPhone>
+        <ContactFax>831-385-7012</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-120.8583210</Longitude>
+        <Latitude>35.9531360</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>128</BranchID>
+        <BranchName>San Ardo, CA - Aera</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>San Ardo</City>
+        <StreetAddress>66575 Sargent Canyon Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>93450</Zip>
+        <ContactPhone>661-768-4908</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Admin Branch</BranchType>
+        <Longitude>-120.8583210</Longitude>
+        <Latitude>35.9531360</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>115</BranchID>
+        <BranchName>North Haven, CT</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CT</State>
+        <StateName>Connecticut</StateName>
+        <City>North Haven</City>
+        <StreetAddress>1 Dwight Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>6473</Zip>
+        <ContactPhone>203-234-6782</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-72.8438450</Longitude>
+        <Latitude>41.4208750</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>117</BranchID>
+        <BranchName>Tupman, CA – California Resources Corporation</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Tupman</City>
+        <StreetAddress>11450 Elk Hills Road</StreetAddress>
+        <Suite>Area 18G, Gate 45</Suite>
+        <Zip>93276</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-119.3512247</Longitude>
+        <Latitude>35.2980185</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>118</BranchID>
+        <BranchName>Bellingham, MA</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>MA</State>
+        <StateName>Massachusetts</StateName>
+        <City>Bellingham</City>
+        <StreetAddress>47 South Maple Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>2019</Zip>
+        <ContactPhone>508-966-3205</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-71.4530772</Longitude>
+        <Latitude>42.0809825</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>119</BranchID>
+        <BranchName>Coalinga, CA - Aera</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Coalinga</City>
+        <StreetAddress>Highway 198 &amp; 33</StreetAddress>
+        <Suite>9 Miles NE of Coalinga</Suite>
+        <Zip>93210</Zip>
+        <ContactPhone>559-935-7432</ContactPhone>
+        <ContactFax>559-935-3016</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-120.3601496</Longitude>
+        <Latitude>36.1396780</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>121</BranchID>
+        <BranchName>Huntington Beach, CA - OXY</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Huntington Beach</City>
+        <StreetAddress>20101 Golden West Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>92648</Zip>
+        <ContactPhone>714-969-3281</ContactPhone>
+        <ContactFax>714-969-3357</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-118.0165440</Longitude>
+        <Latitude>33.6695612</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>124</BranchID>
+        <BranchName>Cymric, CA - Aera</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>McKittrick</City>
+        <StreetAddress>3646 West Reward Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>93251</Zip>
+        <ContactPhone>661-762-6380</ContactPhone>
+        <ContactFax>661-762-6191</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-119.6328317</Longitude>
+        <Latitude>35.3073049</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>126</BranchID>
+        <BranchName>Lost Hills, CA - Chevron</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Lost Hills</City>
+        <StreetAddress>15255 Lost Hills Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>93249</Zip>
+        <ContactPhone>661-392-3711</ContactPhone>
+        <ContactFax>661-392-3847</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-119.7048637</Longitude>
+        <Latitude>35.6045426</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>127</BranchID>
+        <BranchName>Coalinga, CA  - Chevron</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Coalinga</City>
+        <StreetAddress>39405 Derrick Section 25D</StreetAddress>
+        <Suite></Suite>
+        <Zip>93210</Zip>
+        <ContactPhone>5599356250</ContactPhone>
+        <ContactFax>559-935-6266</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-120.3601496</Longitude>
+        <Latitude>36.1396780</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>132</BranchID>
+        <BranchName>Cheyenne, WY - Regional Distribution Center</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WY</State>
+        <StateName>Wyoming</StateName>
+        <City>Cheyenne</City>
+        <StreetAddress>2852 Christensen Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>82007</Zip>
+        <ContactPhone>307-996-4100</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-104.7117445</Longitude>
+        <Latitude>41.1411175</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>142</BranchID>
+        <BranchName>Carson, CA</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Carson</City>
+        <StreetAddress>1555 East Del Amo Boulevard</StreetAddress>
+        <Suite></Suite>
+        <Zip>90746</Zip>
+        <ContactPhone>310-605-5392</ContactPhone>
+        <ContactFax>310-537-2464</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-118.2442750</Longitude>
+        <Latitude>33.8472970</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>145</BranchID>
+        <BranchName>Bellingham, WA</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WA</State>
+        <StateName>Washington</StateName>
+        <City>Bellingham</City>
+        <StreetAddress>3974 Hammer Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>98226</Zip>
+        <ContactPhone>360-734-5951</ContactPhone>
+        <ContactFax>360-734-1108</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-122.4553390</Longitude>
+        <Latitude>48.7851330</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>149</BranchID>
+        <BranchName>McKittrick, CA - Aera</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>McKittrick</City>
+        <StreetAddress>20372 7th Standard Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>93251</Zip>
+        <ContactPhone>661-762-7354</ContactPhone>
+        <ContactFax>661-762-7416</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-119.6923845</Longitude>
+        <Latitude>35.4410986</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>150</BranchID>
+        <BranchName>Ashtabula, OH - Cristal USA Inc.</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Ashtabula</City>
+        <StreetAddress>2900 Middle Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>44004</Zip>
+        <ContactPhone>4409941913</ContactPhone>
+        <ContactFax>440-994-1732</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-80.7651222</Longitude>
+        <Latitude>41.8901941</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>152</BranchID>
+        <BranchName>Toledo, OH</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Toledo</City>
+        <StreetAddress>3110 Frenchmens Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>43607</Zip>
+        <ContactPhone>419-531-5574</ContactPhone>
+        <ContactFax>419-531-5235</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-83.6168030</Longitude>
+        <Latitude>41.6349570</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>155</BranchID>
+        <BranchName>Carrollton, OH</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OH</State>
+        <StateName>Ohio</StateName>
+        <City>Carrollton</City>
+        <StreetAddress>1015 Waynesburg Road NE</StreetAddress>
+        <Suite></Suite>
+        <Zip>44615</Zip>
+        <ContactPhone>330-627-0259</ContactPhone>
+        <ContactFax>330-627-0325</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-81.0689431</Longitude>
+        <Latitude>40.6203785</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>156</BranchID>
+        <BranchName>Davenport, IA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>IA</State>
+        <StateName>Iowa</StateName>
+        <City>Davenport</City>
+        <StreetAddress>5109 Tremont Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>52807</Zip>
+        <ContactPhone>563-386-3334</ContactPhone>
+        <ContactFax>563-386-5935</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-90.5607715</Longitude>
+        <Latitude>41.5727605</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>158</BranchID>
+        <BranchName>Munster, IN</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>IN</State>
+        <StateName>Indiana</StateName>
+        <City>Munster</City>
+        <StreetAddress>101 45th Avenue</StreetAddress>
+        <Suite>Unit 1</Suite>
+        <Zip>46321</Zip>
+        <ContactPhone>219-922-5341</ContactPhone>
+        <ContactFax>708-225-3130</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-87.5240230</Longitude>
+        <Latitude>41.5454640</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>160</BranchID>
+        <BranchName>Benicia, CA</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Benicia</City>
+        <StreetAddress>3110 Bayshore Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>94510</Zip>
+        <ContactPhone>707-746-6960</ContactPhone>
+        <ContactFax>707-746-6979</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-122.1277210</Longitude>
+        <Latitude>38.0625280</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>162</BranchID>
+        <BranchName>Tulsa, OK - Regional Distribution Center</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OK</State>
+        <StateName>Oklahoma</StateName>
+        <City>Tulsa</City>
+        <StreetAddress>11605 East 27th Street North</StreetAddress>
+        <Suite>Suite D</Suite>
+        <Zip>74116</Zip>
+        <ContactPhone>918-234-2200</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>-95.8470841</Longitude>
+        <Latitude>36.1937888</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>165</BranchID>
+        <BranchName>Joliet, IL</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>IL</State>
+        <StateName>Illinois</StateName>
+        <City>Joliet</City>
+        <StreetAddress>4026 Mound Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>60436</Zip>
+        <ContactPhone>815-729-7742</ContactPhone>
+        <ContactFax>815-729-7741</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-88.1649105</Longitude>
+        <Latitude>41.4907824</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>170</BranchID>
+        <BranchName>Lubbock, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Lubbock</City>
+        <StreetAddress>4003 Martin L. King Boulevard</StreetAddress>
+        <Suite></Suite>
+        <Zip>79404</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-101.8183719</Longitude>
+        <Latitude>33.5578258</Latitude>
+    </locations>
+    
+    
+    
+    
+    <locations>
+        <BranchID>178</BranchID>
+        <BranchName>Fellows, CA</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Fellows</City>
+        <StreetAddress>26407 Highway 33</StreetAddress>
+        <Suite></Suite>
+        <Zip>93224</Zip>
+        <ContactPhone>661-768-4908</ContactPhone>
+        <ContactFax>661-768-4737</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-119.5416570</Longitude>
+        <Latitude>35.1932505</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>184</BranchID>
+        <BranchName>Ventura, CA</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CA</State>
+        <StateName>California</StateName>
+        <City>Ventura</City>
+        <StreetAddress>3608 N Ventura Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>93001</Zip>
+        <ContactPhone>805-653-0772</ContactPhone>
+        <ContactFax>805-643-4697</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-119.2906111</Longitude>
+        <Latitude>34.3171941</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>207</BranchID>
+        <BranchName>Vernal, UT</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>UT</State>
+        <StateName>Utah</StateName>
+        <City>Vernal</City>
+        <StreetAddress>580 South 1070 East</StreetAddress>
+        <Suite></Suite>
+        <Zip>84078</Zip>
+        <ContactPhone>435-789-8135</ContactPhone>
+        <ContactFax>435-789-8141</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-109.5058569</Longitude>
+        <Latitude>40.4467226</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>246</BranchID>
+        <BranchName>Riverton, WY</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>WY</State>
+        <StateName>Wyoming</StateName>
+        <City>Riverton</City>
+        <StreetAddress>25 Country Acres Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>82501</Zip>
+        <ContactPhone>307-856-9663</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-108.3869327</Longitude>
+        <Latitude>43.0558330</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>289</BranchID>
+        <BranchName>Albuquerque, NM, US</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NM</State>
+        <StateName>New Mexico</StateName>
+        <City>Albuquerque</City>
+        <StreetAddress>8324 Washington NE</StreetAddress>
+        <Suite></Suite>
+        <Zip>87107</Zip>
+        <ContactPhone>505-341-4373</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-106.6283582</Longitude>
+        <Latitude>35.1287845</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>34A</BranchID>
+        <BranchName>Moss Point, MS</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>MS</State>
+        <StateName>Mississippi</StateName>
+        <City>Moss Point</City>
+        <StreetAddress>8013 Highway 90</StreetAddress>
+        <Suite></Suite>
+        <Zip>39563</Zip>
+        <ContactPhone>228-474-0295</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-88.4762280</Longitude>
+        <Latitude>30.4119970</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>607</BranchID>
+        <BranchName>Andrews, TX - Service Branch</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Andrews</City>
+        <StreetAddress>1821 W Broadway</StreetAddress>
+        <Suite></Suite>
+        <Zip>79714</Zip>
+        <ContactPhone>432-524-5567</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-102.5631447</Longitude>
+        <Latitude>32.3149797</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>613</BranchID>
+        <BranchName>Big Lake, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Big Lake</City>
+        <StreetAddress>625 Colorado Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>76932</Zip>
+        <ContactPhone>325-884-5769</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-101.447611</Longitude>
+        <Latitude>31.201541</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>615</BranchID>
+        <BranchName>Carlsbad, New Mexico</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NM</State>
+        <StateName>New Mexico</StateName>
+        <City>Carlsbad</City>
+        <StreetAddress>5022 1/2 National Parks Highway</StreetAddress>
+        <Suite></Suite>
+        <Zip>88220</Zip>
+        <ContactPhone>575-628-1542</ContactPhone>
+        <ContactFax>855-671-1170</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-104.2214107</Longitude>
+        <Latitude>32.3867301</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>623</BranchID>
+        <BranchName>Midland, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Midland</City>
+        <StreetAddress>3606 E Highway 158</StreetAddress>
+        <Suite></Suite>
+        <Zip>79706</Zip>
+        <ContactPhone>432-570-0182</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-102.0252387</Longitude>
+        <Latitude>31.9789797</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>631</BranchID>
+        <BranchName>Stanley, ND</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>ND</State>
+        <StateName>North Dakota</StateName>
+        <City>Stanley</City>
+        <StreetAddress>6161 Highway 8</StreetAddress>
+        <Suite></Suite>
+        <Zip>58784</Zip>
+        <ContactPhone>701-628-7777</ContactPhone>
+        <ContactFax>701-628-2256</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-102.3968736</Longitude>
+        <Latitude>48.3561658</Latitude>
+    </locations>
+    
+    
+    
+    <locations>
+        <BranchID>706</BranchID>
+        <BranchName>Swift Current, SK</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>SK</State>
+        <StateName>Saskatchewan</StateName>
+        <City>Swift Current</City>
+        <StreetAddress>2495 North Service Road</StreetAddress>
+        <Suite></Suite>
+        <Zip>S9H 5L2</Zip>
+        <ContactPhone>306-773-8828</ContactPhone>
+        <ContactFax>306-773-8916</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-107.8260565</Longitude>
+        <Latitude>50.2873939</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>710</BranchID>
+        <BranchName>Brooks, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Brooks</City>
+        <StreetAddress>1140 - 2nd Street West</StreetAddress>
+        <Suite></Suite>
+        <Zip>T1R 1B8</Zip>
+        <ContactPhone>403-362-3800</ContactPhone>
+        <ContactFax>403-362-6762</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-111.8972034</Longitude>
+        <Latitude>50.5837006</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>711</BranchID>
+        <BranchName>Richmound, SK</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>SK</State>
+        <StateName>Saskatchewan</StateName>
+        <City>Medicine Hat</City>
+        <StreetAddress>HWY 371 East</StreetAddress>
+        <Suite></Suite>
+        <Zip>S0N 2E0</Zip>
+        <ContactPhone>306-669-2112</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-110.7098137</Longitude>
+        <Latitude>50.0234127</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>714</BranchID>
+        <BranchName>Kindersley, SK</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>SK</State>
+        <StateName>Saskatchewan</StateName>
+        <City>Kindersley</City>
+        <StreetAddress>1301 - 11 Avenue West</StreetAddress>
+        <Suite></Suite>
+        <Zip>S0L 1S0</Zip>
+        <ContactPhone>306-463-4433</ContactPhone>
+        <ContactFax>306-463-3952</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-109.1839044</Longitude>
+        <Latitude>51.4745506</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>727</BranchID>
+        <BranchName>Wainwright, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Wainwright</City>
+        <StreetAddress>1902 1 Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>T9W 1L7</Zip>
+        <ContactPhone>780-806-1073</ContactPhone>
+        <ContactFax>780-806-1074</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-110.874254</Longitude>
+        <Latitude>52.845807</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>729</BranchID>
+        <BranchName>Sarnia, ON</BranchName>
+        <Region>EASTERN</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>ON</State>
+        <StateName>Ontario</StateName>
+        <City>Corunna</City>
+        <StreetAddress>487 Polymoore Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>N0N 1G0</Zip>
+        <ContactPhone>519-862-1763</ContactPhone>
+        <ContactFax>519-862-4406</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-82.4210330</Longitude>
+        <Latitude>42.8799830</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>731</BranchID>
+        <BranchName>Rocky Mountain House, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Rocky Mtn. House</City>
+        <StreetAddress>4519 - 43 Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>T4T 1A9</Zip>
+        <ContactPhone>403-844-9444</ContactPhone>
+        <ContactFax>403-844-4332</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-114.9042797</Longitude>
+        <Latitude>52.3694554</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>740</BranchID>
+        <BranchName>Red Deer, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Red Deer</City>
+        <StreetAddress>7555 Edgar Industrial Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>T4P 3R2</Zip>
+        <ContactPhone>403-343-1110</ContactPhone>
+        <ContactFax>403-342-4755</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-113.8552062</Longitude>
+        <Latitude>52.3030702</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>741</BranchID>
+        <BranchName>Anzac, AB - Service Branch</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Anzac</City>
+        <StreetAddress>105 Oak Court</StreetAddress>
+        <Suite></Suite>
+        <Zip>T0P 1J0</Zip>
+        <ContactPhone>780-334-0526</ContactPhone>
+        <ContactFax>780-334-0529</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-111.0578118</Longitude>
+        <Latitude>56.4358960</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>748</BranchID>
+        <BranchName>Nisku, AB  - Valve &amp; Engineering Center</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Nisku</City>
+        <StreetAddress>502 - 25 Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>T9E 0K6</Zip>
+        <ContactPhone>780-979-0233</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Valve &amp; Engineering Center</BranchType>
+        <Longitude>-113.5311008</Longitude>
+        <Latitude>53.3524268</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>759</BranchID>
+        <BranchName>Nisku, AB - Regional Distribution Center</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Nisku</City>
+        <StreetAddress>502 - 25 Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>T9E 0K6</Zip>
+        <ContactPhone>780-979-0233</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>RDC</BranchType>
+        <Longitude>-113.5311008</Longitude>
+        <Latitude>53.3524268</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>777</BranchID>
+        <BranchName>Nisku, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Nisku</City>
+        <StreetAddress>502 - 25 Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>T9E 0K6</Zip>
+        <ContactPhone>780-979-0233</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-113.5311008</Longitude>
+        <Latitude>53.3524268</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Singapore - Valve &amp; Engineering Center</BranchName>
+        <Region>Asia Pacific</Region>
+        <Country>Singapore</Country>
+        <CountryCode>SG</CountryCode>
+        <State>Singapore</State>
+        <StateName>Singapore</StateName>
+        <City>Singapore</City>
+        <StreetAddress>16 Sungei Kadut Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>729652</Zip>
+        <ContactPhone>+65 6865 1020</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Automation and Controls Shop</BranchType>
+        <Longitude>103.7554900</Longitude>
+        <Latitude>1.4038430</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>000</BranchID>
+        <BranchName>Singapore - Regional Distribution Center</BranchName>
+        <Region>Asia Pacific</Region>
+        <Country>Singapore</Country>
+        <CountryCode>SG</CountryCode>
+        <State>Singapore</State>
+        <StateName>Singapore</StateName>
+        <City>Singapore</City>
+        <StreetAddress>16 Sungei Kadut Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>729652</Zip>
+        <ContactPhone>+65 6865 1020</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Regional Distribution Center</BranchType>
+        <Longitude>103.7554900</Longitude>
+        <Latitude>1.4038430</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>755</BranchID>
+        <BranchName>Grande Prairie, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Grande Prairie</City>
+        <StreetAddress>10102 123rd Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>T8V 8B8</Zip>
+        <ContactPhone>780-532-9542</ContactPhone>
+        <ContactFax>780-513-2230</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-118.8617649</Longitude>
+        <Latitude>55.1710812</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>756</BranchID>
+        <BranchName>Redwater, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Redwater</City>
+        <StreetAddress>4724 - 44 Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>T0A 2W0</Zip>
+        <ContactPhone>780-942-3500</ContactPhone>
+        <ContactFax>780-942-2204</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-113.0997260</Longitude>
+        <Latitude>53.9486203</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>761</BranchID>
+        <BranchName>Drayton Valley, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Drayton Valley</City>
+        <StreetAddress>2449 - 50 Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>T7A 1S1</Zip>
+        <ContactPhone>780-542-2666</ContactPhone>
+        <ContactFax>780-542-2698</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-114.9766614</Longitude>
+        <Latitude>53.2015118</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>764</BranchID>
+        <BranchName>Estevan, SK</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>SK</State>
+        <StateName>Saskatchewan</StateName>
+        <City>Estevan</City>
+        <StreetAddress>307 Kensington Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>S4A 2A1</Zip>
+        <ContactPhone>306-634-8460</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-102.9690673</Longitude>
+        <Latitude>49.1328337</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>770</BranchID>
+        <BranchName>Taber, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Taber</City>
+        <StreetAddress>6202 - 64 Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>T1G 1Z3</Zip>
+        <ContactPhone>403-223-9366</ContactPhone>
+        <ContactFax>403-223-9370</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-112.1275618</Longitude>
+        <Latitude>49.8000037</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>771</BranchID>
+        <BranchName>Peace River, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Peace River</City>
+        <StreetAddress>8102 - 102nd Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>T8S 1S7</Zip>
+        <ContactPhone>780-624-4823</ContactPhone>
+        <ContactFax>780-624-4843</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-117.3289377</Longitude>
+        <Latitude>56.2322447</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>775</BranchID>
+        <BranchName>Edson, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Edson</City>
+        <StreetAddress>5977 - 3 Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>T7E 1R8</Zip>
+        <ContactPhone>780-723-2691</ContactPhone>
+        <ContactFax>780-723-4879</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-116.4524513</Longitude>
+        <Latitude>53.5757579</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>781</BranchID>
+        <BranchName>Lloydminster, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Lloydminster</City>
+        <StreetAddress>6102 - 56th Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>T9V 3A9</Zip>
+        <ContactPhone>780-875-0807</ContactPhone>
+        <ContactFax>780-808-2958</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-110.0193293</Longitude>
+        <Latitude>53.2733344</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>782</BranchID>
+        <BranchName>Elk Point, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Elk Point</City>
+        <StreetAddress>4601 - 50 Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>T0A 1A0</Zip>
+        <ContactPhone>780-724-4876</ContactPhone>
+        <ContactFax>780-724-3965</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-110.8933023</Longitude>
+        <Latitude>53.8969398</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>784</BranchID>
+        <BranchName>Bonnyville, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Bonnyville</City>
+        <StreetAddress>6504 - 50th Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>T9N 2M6</Zip>
+        <ContactPhone>780-826-3577</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-110.7608786</Longitude>
+        <Latitude>54.2679731</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>789</BranchID>
+        <BranchName>Fort St. John, BC</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>BC</State>
+        <StateName>British Columbia</StateName>
+        <City>Fort St. John</City>
+        <StreetAddress>8529 - 100 Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>V1J 3W7</Zip>
+        <ContactPhone>250-787-1091</ContactPhone>
+        <ContactFax>250-787-1096</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-120.8463600</Longitude>
+        <Latitude>56.2326413</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>790</BranchID>
+        <BranchName>Whitecourt, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Whitecourt</City>
+        <StreetAddress>Bay 1, 3430 33 Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>T7S 1X4</Zip>
+        <ContactPhone>780-778-5400</ContactPhone>
+        <ContactFax>780-778-5277</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-115.6395905</Longitude>
+        <Latitude>54.1230434</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>791</BranchID>
+        <BranchName>Virden, MB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>MB</State>
+        <StateName>Manitoba</StateName>
+        <City>Virden</City>
+        <StreetAddress>1 Highway &amp; Junction 259</StreetAddress>
+        <Suite></Suite>
+        <Zip>R0M 2C0</Zip>
+        <ContactPhone>204-748-3137</ContactPhone>
+        <ContactFax>204-748-3165</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-100.9587370</Longitude>
+        <Latitude>49.8692290</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>792</BranchID>
+        <BranchName>Macklin, SK</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>SK</State>
+        <StateName>Saskatchewan</StateName>
+        <City>Macklin</City>
+        <StreetAddress>5413 - 47th Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>S0L 2C0</Zip>
+        <ContactPhone>306-753-3214</ContactPhone>
+        <ContactFax>306-753-3217</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-109.9376782</Longitude>
+        <Latitude>52.3361379</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>793</BranchID>
+        <BranchName>Athabasca, AB</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Athabasca</City>
+        <StreetAddress>4014 - 53 Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>T9S 1A7</Zip>
+        <ContactPhone>780-675-9212</ContactPhone>
+        <ContactFax>780-675-3282</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-113.2939122</Longitude>
+        <Latitude>54.7091751</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>769</BranchID>
+        <BranchName>Calgary, AB, Canada - Corporate Office</BranchName>
+        <Region>CANADA</Region>
+        <Country>Canada</Country>
+        <CountryCode>CA</CountryCode>
+        <State>AB</State>
+        <StateName>Alberta</StateName>
+        <City>Calgary</City>
+        <StreetAddress>255 - 5th Avenue SW, Suite 910 Bow Valley Square #3</StreetAddress>
+        <Suite></Suite>
+        <Zip>T2P 3G6</Zip>
+        <ContactPhone>403-233-7166</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Corporate Office</BranchType>
+        <Longitude>-114.0642311</Longitude>
+        <Latitude>51.0497928</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>802</BranchID>
+        <BranchName>Ardmore, OK - Service Branch</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OK</State>
+        <StateName>Oklahoma</StateName>
+        <City>Ardmore</City>
+        <StreetAddress>621 1/2 Interstate Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>73401</Zip>
+        <ContactPhone>580-226-4770</ContactPhone>
+        <ContactFax>580-226-4777</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-97.1703020</Longitude>
+        <Latitude>34.1672640</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>808</BranchID>
+        <BranchName>Pecos, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Pecos</City>
+        <StreetAddress>2800 S Bickley Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>79772</Zip>
+        <ContactPhone>432-445-0182</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-103.5197188</Longitude>
+        <Latitude>31.4080056</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>818</BranchID>
+        <BranchName>Tulsa, OK - Valve &amp; Engineering Center</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OK</State>
+        <StateName>Oklahoma</StateName>
+        <City>Tulsa</City>
+        <StreetAddress>11605 East 27th Street North</StreetAddress>
+        <Suite>Suite D</Suite>
+        <Zip>74116</Zip>
+        <ContactPhone>918-234-2200</ContactPhone>
+        <ContactFax>918-437-2644</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>VEC</BranchType>
+        <Longitude>-95.8470841</Longitude>
+        <Latitude>36.1937888</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>819</BranchID>
+        <BranchName>Artesia, NM</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NM</State>
+        <StateName>New Mexico</StateName>
+        <City>Artesia</City>
+        <StreetAddress>200 East Main Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>88210</Zip>
+        <ContactPhone>575-748-3307</ContactPhone>
+        <ContactFax>575-748-3213</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-104.3963500</Longitude>
+        <Latitude>32.8430250</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>821</BranchID>
+        <BranchName>Lindsay, OK</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OK</State>
+        <StateName>Oklahoma</StateName>
+        <City>Lindsay</City>
+        <StreetAddress>603 SE 4th</StreetAddress>
+        <Suite></Suite>
+        <Zip>73052</Zip>
+        <ContactPhone>405-756-9561</ContactPhone>
+        <ContactFax>405-756-8692</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-97.5984045</Longitude>
+        <Latitude>34.8311837</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>823</BranchID>
+        <BranchName>Carthage, TX</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Carthage</City>
+        <StreetAddress>1740 NE Loop</StreetAddress>
+        <Suite></Suite>
+        <Zip>75633</Zip>
+        <ContactPhone>903-693-7846</ContactPhone>
+        <ContactFax>903-693-4616</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-94.3523655</Longitude>
+        <Latitude>32.1372966</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>012A</BranchID>
+        <BranchName>Houston, Texas, US - Global Headquarters</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Houston</City>
+        <StreetAddress>1301 McKinney Street</StreetAddress>
+        <Suite>Suite 2300</Suite>
+        <Zip>77010</Zip>
+        <ContactPhone>877-294-7574</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Corporate Office</BranchType>
+        <Longitude>-95.3616100</Longitude>
+        <Latitude>29.7555150</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>830</BranchID>
+        <BranchName>Houma, LA</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>LA</State>
+        <StateName>Louisiana</StateName>
+        <City>Houma</City>
+        <StreetAddress>110 Venture Boulevard</StreetAddress>
+        <Suite></Suite>
+        <Zip>70360</Zip>
+        <ContactPhone>985-879-3341</ContactPhone>
+        <ContactFax>985-873-8719</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-90.7611200</Longitude>
+        <Latitude>29.6007133</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>832</BranchID>
+        <BranchName>Hobbs, NM</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>NM</State>
+        <StateName>New Mexico</StateName>
+        <City>Hobbs</City>
+        <StreetAddress>1507 W Bender</StreetAddress>
+        <Suite></Suite>
+        <Zip>88240</Zip>
+        <ContactPhone>575-396-3671</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-103.1513082</Longitude>
+        <Latitude>32.7256658</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>837</BranchID>
+        <BranchName>Woodward, OK</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OK</State>
+        <StateName>Oklahoma</StateName>
+        <City>Woodward</City>
+        <StreetAddress>3920 Oklahoma Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>73801</Zip>
+        <ContactPhone>580-254-3472</ContactPhone>
+        <ContactFax>580-254-3645</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-99.4312760</Longitude>
+        <Latitude>36.4335523</Latitude>
+    </locations>
+   
+    
+    <locations>
+        <BranchID>846</BranchID>
+        <BranchName>St. Paul, MN</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>MN</State>
+        <StateName>Minnesota</StateName>
+        <City>St. Paul</City>
+        <StreetAddress>353 Fillmore Avenue East</StreetAddress>
+        <Suite></Suite>
+        <Zip>55107</Zip>
+        <ContactPhone>651-228-9050</ContactPhone>
+        <ContactFax>651-228-9055</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-93.0761490</Longitude>
+        <Latitude>44.9447250</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>847</BranchID>
+        <BranchName>Borger, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Borger</City>
+        <StreetAddress>104 North Florida Street</StreetAddress>
+        <Suite></Suite>
+        <Zip>79007</Zip>
+        <ContactPhone>806-274-7041</ContactPhone>
+        <ContactFax>806-274-6117</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-101.3807204</Longitude>
+        <Latitude>35.6669501</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>849</BranchID>
+        <BranchName>Snyder, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Snyder</City>
+        <StreetAddress>3913 LaMesa Highway</StreetAddress>
+        <Suite></Suite>
+        <Zip>79549</Zip>
+        <ContactPhone>325-573-1097</ContactPhone>
+        <ContactFax>325-573-3947</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-100.9450699</Longitude>
+        <Latitude>32.7215598</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>857</BranchID>
+        <BranchName>LaSalle, CO</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>CO</State>
+        <StateName>Colorado</StateName>
+        <City>LaSalle</City>
+        <StreetAddress>20672 Niobrara Blvd</StreetAddress>
+        <Suite></Suite>
+        <Zip>80645</Zip>
+        <ContactPhone>970-330-6079</ContactPhone>
+        <ContactFax>970-330-3142</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-104.7001190</Longitude>
+        <Latitude>40.3721690</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>860</BranchID>
+        <BranchName>Oklahoma City, OK</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OK</State>
+        <StateName>Oklahoma</StateName>
+        <City>Oklahoma City</City>
+        <StreetAddress>9327 W Reno</StreetAddress>
+        <Suite></Suite>
+        <Zip>73127</Zip>
+        <ContactPhone>405-635-9420</ContactPhone>
+        <ContactFax>405-635-9524</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-97.6791210</Longitude>
+        <Latitude>35.4657470</Latitude>
+    </locations>
+    
+    
+    <locations>
+        <BranchID>866</BranchID>
+        <BranchName>Tulsa, OK</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>OK</State>
+        <StateName>Oklahoma</StateName>
+        <City>Tulsa</City>
+        <StreetAddress>11605 East 27th Street North</StreetAddress>
+        <Suite>Suite D</Suite>
+        <Zip>74116</Zip>
+        <ContactPhone>918-234-2200</ContactPhone>
+        <ContactFax>918-437-2644</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-95.8470841</Longitude>
+        <Latitude>36.1937888</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>871</BranchID>
+        <BranchName>Jourdanton, TX</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Jourdanton</City>
+        <StreetAddress>1012 Highway 97 West</StreetAddress>
+        <Suite></Suite>
+        <Zip>78026</Zip>
+        <ContactPhone>830-769-2390</ContactPhone>
+        <ContactFax>830-769-4395</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-98.5429052</Longitude>
+        <Latitude>28.9203546</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>873</BranchID>
+        <BranchName>Gonzales, TX</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Gonzales</City>
+        <StreetAddress>261 Oil Patch Lane</StreetAddress>
+        <Suite></Suite>
+        <Zip>78629</Zip>
+        <ContactPhone>830-672-7473</ContactPhone>
+        <ContactFax>830-437-5355</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-97.4598393</Longitude>
+        <Latitude>29.5323716</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>874</BranchID>
+        <BranchName>Kenedy, TX</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Kenedy</City>
+        <StreetAddress>8730 S Highway 181</StreetAddress>
+        <Suite></Suite>
+        <Zip>78119</Zip>
+        <ContactPhone>830-583-9553</ContactPhone>
+        <ContactFax>830-583-9853</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-97.8514944</Longitude>
+        <Latitude>28.7479728</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>875</BranchID>
+        <BranchName>Canadian, TX</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>TX</State>
+        <StateName>Texas</StateName>
+        <City>Canadian</City>
+        <StreetAddress>10870 US Highway 60</StreetAddress>
+        <Suite></Suite>
+        <Zip>79014</Zip>
+        <ContactPhone>806-323-9198</ContactPhone>
+        <ContactFax>806-323-9720</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-100.3908789</Longitude>
+        <Latitude>35.9032774</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>886</BranchID>
+        <BranchName>Shreveport, LA</BranchName>
+        <Region>GULF COAST</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>LA</State>
+        <StateName>Louisiana</StateName>
+        <City>Shreveport</City>
+        <StreetAddress>9104 Linwood Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>71106</Zip>
+        <ContactPhone>318-603-8160</ContactPhone>
+        <ContactFax>318-603-8200</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-93.7635883</Longitude>
+        <Latitude>32.4179650</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>889</BranchID>
+        <BranchName>Columbus, MS</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>MS</State>
+        <StateName>Mississippi</StateName>
+        <City>Columbus</City>
+        <StreetAddress>494 Highway 45 South</StreetAddress>
+        <Suite></Suite>
+        <Zip>39701</Zip>
+        <ContactPhone>662-327-1571</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Service Branch</BranchType>
+        <Longitude>-88.4899110</Longitude>
+        <Latitude>33.4780720</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>896</BranchID>
+        <BranchName>Soldotna, AK</BranchName>
+        <Region>WESTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>AK</State>
+        <StateName>Alaska</StateName>
+        <City>Soldotna</City>
+        <StreetAddress>35159 K-B Drive</StreetAddress>
+        <Suite>Suite B</Suite>
+        <Zip>99669</Zip>
+        <ContactPhone>907-260-4456</ContactPhone>
+        <ContactFax>907-260-4470</ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-151.1508580</Longitude>
+        <Latitude>60.4905120</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>8W5</BranchID>
+        <BranchName>Lock Haven, PA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>PA</State>
+        <StateName>Pennsylvania</StateName>
+        <City>Lock Haven</City>
+        <StreetAddress>1582 Woodward Avenue</StreetAddress>
+        <Suite></Suite>
+        <Zip>17745</Zip>
+        <ContactPhone>570-748-5276</ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-77.3779958</Longitude>
+        <Latitude>41.1631744</Latitude>
+    </locations>
+    
+    <locations>
+        <BranchID>8ZA</BranchID>
+        <BranchName>Montrose, PA</BranchName>
+        <Region>EASTERN</Region>
+        <Country>US</Country>
+        <CountryCode>US</CountryCode>
+        <State>PA</State>
+        <StateName>Pennsylvania</StateName>
+        <City>Montrose</City>
+        <StreetAddress>164 Ellsworth Drive</StreetAddress>
+        <Suite></Suite>
+        <Zip>18801</Zip>
+        <ContactPhone></ContactPhone>
+        <ContactFax></ContactFax>
+        <ContactEmail>heritage</ContactEmail>
+        <BranchType>Branch Service Location</BranchType>
+        <Longitude>-75.8862090</Longitude>
+        <Latitude>41.8029232</Latitude>
+    </locations>
+    
+</Document>
+
